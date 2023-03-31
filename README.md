@@ -3,7 +3,7 @@ A piece of python code based off of a ChatGPT generated python script to mark em
 
 install the python packages:
 
-google-auth <\n>
+google-auth </n>
 google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
