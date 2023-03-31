@@ -10,5 +10,16 @@ install the python packages:
 
 Set up a Gmail API and authenticate
 
+Download gcloud CLI package at:
+https://cloud.google.com/sdk/docs/install
+*place in root
 
+Initialize gcloud CLI on Mac w/
 
+./google-cloud-sdk/install.sh
+
+Open new terminal and run
+
+./google-cloud-sdk/bin/gcloud init
+
+Login to account
