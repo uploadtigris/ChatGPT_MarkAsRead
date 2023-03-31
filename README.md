@@ -6,7 +6,7 @@ install the python packages:
 <li>google-auth</li> 
 <li>google-auth-oauthlib</li>
 <li>google-auth-httplib2</li>
-<li>google-api-python-client</li>
+<li>google-api-python-client</li></n>
 
 Set up a Gmail API and authenticate
 
