@@ -3,10 +3,10 @@ A piece of python code based off of a ChatGPT generated python script to mark em
 
 install the python packages:
 
-google-auth </n>
-google-auth-oauthlib
-google-auth-httplib2
-google-api-python-client
+<li>google-auth</li> 
+<li>google-auth-oauthlib</li>
+<li>google-auth-httplib2</li>
+<li>google-api-python-client</li>
 
 Set up a Gmail API and authenticate
 
